@@ -23,4 +23,3 @@ Unlock the playful side of the Palindrome Checker by entering specific phrases i
 Capturing and interpreting user input required meticulous coding. The code intelligently handles empty inputs, guiding users to provide meaningful text for palindrome verification.
 
 ![Screen Shot 2024-01-21 at 19 24 49](https://github.com/ayuboketch/Palindrome-Checker/assets/17433791/0ef1faf9-a02c-4dbc-8e01-fafec1d02b25)
-![Screen Shot 2024-01-21 at 19 24 08](https://github.com/ayuboketch/Palindrome-Checker/assets/17433791/532e946a-281b-4c8b-9b99-9a3ba628a1c5)
